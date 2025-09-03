@@ -81,33 +81,58 @@
         <h2>
             
         </h2>
-        <article>
-            
-         <ul>
-            
-        <ol>            
-            <li><b>1.State Your Value Proposition</b></li>
-        </ol>
-            
-            <li> What is this product or service?</li>
-            <li> When I'm on this website, where should I go first?</li>
-            <li> Does the website help solve any problems for me?</li>
-            <li> Why should I choose this product/service over any others to solve my problems?</li>
+<article>
 
-        </ul>
-        <ol>            
-            <li><b>2.Persona-Focused Design and Copy</b></li>
-        </ol>
-        <P>Cater to the audience you are trying to attract:</P>  
-            <li> What is this product or service?</li>
-            <li> When I'm on this website, where should I go first?</li>
-            <li> Does the website help solve any problems for me?</li>
-            <li> Why should I choose this product/service over any others to solve my problems?</li>
+        <h2>1.State Your Value Proposition</h2>
+    <ul>
+        <li> What is this product or service?</li>
+        <li>When I'm on this website, where should I go first?</li>
+        <li>Does the website help solve any problems for me?</li>
+        <li>Why should I choose this product/service over any others to solve my problems?</li>
+    </ul>
 
-        </ul>
-        
+        <h2>2. Persona-Focused Design and Copy</h2>
+    </ol>
+    <p>Cater to the audience you are trying to attract:</p>
+    <ul>
+        <li>What is this product or service?</li>
+        <li>When I'm on this website, where should I go first?</li>
+        <li>Does the website help solve any problems for me?</li>
+        <li>Why should I choose this product/service over any others to solve my problems?</li>
+    </ul>
 
-        </article>
+       <h2>3.State Your Value Proposition</h2>
+    <ul>
+        <li>Define your persona's pain points</li>
+        <li>Offer solutions?</li>
+        <li>Adjust the content of your website to be more personalized and relevant</li>
+    </ul>
+
+    <h2>4. Navigation</h2>
+    </ol>
+    <p>Navigation is the most essential aspect. When visitors land on your website, they will often head to the navigation first to find what they need. Here are some tips to keep in mind.</p>
+    <ul>
+        <li>User-friendly</li>
+        <li>Limit the number of top-level navigation item</li>
+        <li>Keep dropdown menus to one level</li>
+    </ul>
+
+    <h2>5. Link to Popular Content</h2>
+    </ol>
+    <p>Build trust and credibility with your visitors by linking to popular content on your homepage. This will also improve the amount of interaction between website pages.</p>
+    </ul>
+
+    <h2>6.Colors</h2>
+    </ol>
+    <p>Pick two to four colors for your website and marketing materials and not deviate from those. A simple, elegant color scheme goes a long way. in your homepage design.</p>
+    <ul>
+
+    <h2>7. Responsive</h2>
+    <p>A website that is designed to adapt to whatever device a visitor is using 
+  allows for easy reading and scrolling without constantly adjusting your screen</p>
+    <ul>
+
+     </article>
         
 
 
@@ -115,6 +140,140 @@
     <!--this is main-->
 
     <footer>
+     <Footer style="display: flex;">
+
+        <section >
+          
+            <button>
+                <p href=""><img src="" alt="">img</p>
+            </button>            
+          
+               <p href=""><button><h1>SmartBug.</h1></button></p> 
+
+            <p href=""> <button><h4>Boost Revenue</h4></button></p>
+            
+        
+        
+            <nav>
+                <button>
+                    <p href="">In<img src="" alt=""></p>
+                </button>
+
+                <button>
+                    <p href="">Yt<img src="" alt=""></p>
+                </button>
+
+                <button>
+                    <p href="">IG<img src="" alt=""></p>
+                </button>
+
+                <button>
+                    <p href="">F<img src="" alt=""></p>
+                </button>
+
+                <button>
+                    <p href="">P<img src="" alt=""></p>
+                </button>
+            </nav>
+        
+            <p>© 2025 SmartBug Media, Inc., a full- <br>
+                service digital agency.<p>
+        
+            <nav>
+                <button>
+                    <a href="">Privacy</a>
+                </button>
+
+                <button>
+                    <a href="">Terms</a>
+                </button>
+
+                <button>
+                    <a href="">HIPAA</a>
+                </button>
+            </nav>
+         </section> 
+
+        <section>
+            <h2>HubSpot Services</h2>
+
+            <p href="">HubSpot Onboarding</p>
+            <p href="">HubSpot Admin</p> 
+            <p href="">Marketing Hub</p>
+            <p href="">Sales Hub</p> 
+            <p href="">Service Hub</p>
+            <p href="">Content Hub</p>
+            <p href="">Commerce Hub</p>
+            <p href="">Operations Hub</p>
+            <p href="">Integrations & Migrations</p>
+            <p href="">HubSpot Training</p>   
+        
+            <h2> About</h2>
+            <p href="">Our Story</p>
+            <p href="">Meet the Team</p>
+            <p href="">Partnerships</p>
+            <p href="">Events</p>
+            <p href="">Press</p>
+            <p href="">Careers</p>
+            <p href="">SmartBug Culture</p>
+            <p href="">SmartBug Palooza</p>
+            <p href="">Our Core Values</p>
+        </section>
+
+        <section>
+            <h2>AI & Tech Services</h2>
+
+            <p href="">AI Agents & Development</p>
+            <p href="">Website Development</p> 
+            <p href="">E-commerce</p>
+            <p href="">Integrations & Migrations</p> 
+
+            <h2>Platforms</h2>
+            <p href="">WordPress</p>
+            <p href="">Craft CMS</p>
+            <p href="">Magento / Adobe Commerce</p>
+            <p href="">Shopify</p>
+            <p href="">HubSpot</p>
+       
+        </section>
+
+        <section>
+            <h2>Solutions</h2>
+            <p href="">Demand Generation</p>
+            <p href="">Sales enablement</p>
+            <p href="">Paid Media</p>
+            <p href="">Revenue Operations</p>
+            <p href="">Customer success</p>
+            
+            <h2>Industries</h2>
+            <p href="">Healthcare</p>
+            <p href="">Senior Living</p>
+            <p href="">Manufacturing</p>
+            <p href="">SaaS</p>
+            <p href="">Finance</p>
+            <p href="">Franchise</p>
+            <p href="">Education</p>
+        </section> 
+
+        <section>
+            <h2>Work & Awards</h2>
+            <p href="">Case Studies</p>
+            <p href="">Portfolio</p>
+            <p href="">Client Testimonials</p>
+            <p href="">Awards</p>
+            <p href="">Press</p>
+       
+
+            <h2>Resources</h2>
+            <p href="">Articles</p>
+            <p href="">E-Books</p>
+            <p href="">Templates</p>
+            <p href="">Webinars</p>
+            <p href="">Podcasts</p>
+            <p href="">Bootcamps</p>
+            <p href="">Assessments</p>
+        </section>
+
 
     </footer>
 </body>
