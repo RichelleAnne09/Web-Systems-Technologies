@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<header>
+  <!-- Top bar -->
+  <div class="top-bar">
+    <div>
+      <a href="#">MyBethel</a> |
+      <a href="#">Offices</a>
+      <a href="#">News</a>
+      <a href="#">Events</a>
+      <a href="#">Blog</a>
+    </div>
+    <div>
+      <a href="#">Apply</a>
+      <a href="#">Visit</a>
+      <a href="#">Give</a>
+      <a href="#">🔍</a>
+    </div>
+  </div>
+
+  <!-- Logo -->
+  <div class="logo-row">
+    <div class="logo">
+      <img src= alt="Bethel University Logo">
+      <div class="logo-text">BETHEL <span class="logo-sub">UNIVERSITY</span></div>
+    </div>
+  </div>
+
+  <!-- Main nav -->
+  <nav>
+    <a href="#">About</a>
+    <a href="#">Admissions & Aid</a>
+    <a href="#">Academics</a>
+    <a href="#">Student Life</a>
+    <a href="#">Athletics</a>
+    <a href="#">Faith</a>
+  </nav>
+</header>
+
+</body>
+</html>
+  
+
+  <h2>Anatomy of a Webpage</h2>
+
+  <p>There are lots of pieces to think about when creating a webpage. 
+     Here’s a quick guide to the most basic elements.</p>
+  <h2>1. Page Title</h2>
+  <ul>
+    <li>Keep it short. Use clear language.</li>
+    <li>Make the first two words count.</li>
+    <li>Avoid internal jargon or acronyms.</li>
+  </ul>
+
+  <h2>2. ID</h2>
+  <p>The ID is a label assigned to the webpage that will appear at the end of the URL.</p>
+  <ul>
+    <li>Use hyphens between words.</li>
+    <li>Never use underscores or other characters.</li>
+    <li>No capital letters.</li>
+    <li>Use words that make sense.</li>
+    <li>Don’t use obscure acronyms or abbreviations.</li>
+  </ul>
+
+  <h2>3.Description</h2>
+  <p>The description is a one-sentence summary of your page. It’s important to use key words and phrases that you think visitors might be using as search terms.</p>
+  <ul>
+    <p></p>
+    <li>Google search results page</li>
+    <li>Facebook, comments threads, or any other website where someone might post a link to your page</li>  
+  </ul>
+
+  <h2>4.Body</h2>
+  <p>The body is the bulk of your webpage content. It’s the information you’re providing to help visitors complete their tasks.</p>
+  <ul>
+    <p>
+    <li>Put your informFacebook, comments threads, or any other website where someone might post a link to your pageation in priority order with the most important information first.</li>
+    <li>Use short words, sentences, and paragraphs.
+      Think about your user first. What is the information that they want to know?</li>
+    <li>Are you using language that your users understand?</li>
+    <li>Never use all caps unless it's a predefined style you cannot control. Use bold instead if you're wanting to convey emphasis.</li> 
+  </ul>
+
+  <h2>5.Headings</h2>
+  <p>Headings help users scan and find information quickly so they can assess if they're in the right place.</p>
+  <ul>
+    <p>
+    <li>Accurately describe the information in the section</li>
+    <li>Be clear and concrete.</li>
+    <li>Use key terms or phrases that are relevant for users.</li>
+    <li>Use powerful and active words.</li>
+    <p>When formatting your headings, use H2 for main headings and H3 for subheadings. Re-evaluate your content if you're needing H4 because your page can get messy in a hurry.</p>
+  </ul>
+
+   <h2>6.Lists</h2>
+  <p>A list is a helpful tool for breaking down huge paragraphs or providing step-by-step instructions.</p>
+  <ul>
+    <p>
+    <li>Start with a capital letter.</li>
+    <li>Place a period at the end of complete sentences.</li>
+    <li>Use parallel language for list items (all fragments, all complete sentences, all questions, etc.).</li>
+    <li>Use numbers if you’re outlining a process or concrete steps that a visitor needs to take.</li>
+    <li>Visitors usually only see the first 2 words for each list item, so make those first 2 words meaningful.</li>
+  </ul>
+
+  <h2>6.Bold, Italics, and Underline</h2>
+  <p>On the web, bold, italics, and underline each have a unique purpose.</p>
+  <ul>
+  
+    <p>Use bold for highlighting important info, such as an application deadline or fee. You can also use bold for key introductory phrases of bulleted lists.</p>
+    <p>Words of advice: if bold is overused, it’s no longer helpful. When too much is emphasized nothing stands out.</p>
+
+    <h3>Italics</h3>
+    <p>Use italics according to the  Bethel Style Guide:  </p>
+
+    <li>Book title<li>
+
+    <li>Movie titles<li>
+
+    <li>Titles of newspapers or publications<li>
+    <li>Other items as noted in the style guide<li>
+
+    <p>Italics can also be used to consistently format a repeated piece of minor information.</p>
+   <p>Examples:</p>
+
+   <li>Room locations on secdule of events for a conference</li>
+   <li>Job titles on a staff list</li>
+    
+    <h3>Underline</h3>
+
+    <p>Never underline text on the web. Visitors will mistake underlined text for a link. This leads to confusion and reduces the impact of what you were trying to highlight. Use bold for emphasis instead.</p>
+
+  </ul>
+
+  <h2>7.Lists</h2>
+  <p>A list is a helpful tool for breaking down huge paragraphs or providing step-by-step instructions.</p>
+  <ul>
+    <p>
+    <li>Start with a capital letter.</li>
+    <li>Place a period at the end of complete sentences.</li>
+    <li>Use parallel language for list items (all fragments, all complete sentences, all questions, etc.).</li>
+    <li>Use numbers if you’re outlining a process or concrete steps that a visitor needs to take.</li>
+    <li>Visitors usually only see the first 2 words for each list item, so make those first 2 words meaningful.</li>
+  </ul>
+
+  <h2>8. Links</h2>
+  <p>Hyperlink meaningful phrases rather than single words or words that lack context.</p>
+  <ul>
+    <p>
+    <li>Phrases are easier to spot.</li>
+    <li>Meaningful words help search engines scan and pick up useful information.</li>
+    <li>Avoid using "here" and "click here."</li>
+    <p>Alert visitors when links will lead them to a document instead of a webpage by adding the appropriate tag at the end of the link:</p>
+    <li>Bethel Undergraduate Catalog (pdf)</li>
+    <li>Bethel Style Guide (doc)</li>
+    <li>Bethel Expense Report (xls)</li>
+  </ul>
+
+  <h2>9.Call to Action</h2>
+
+  <p>Hyperlink meaningful phrases rather than single words or words that lack context.</p>
+  <spaces> </spaces>
+  <p>It’s helpful to always give visitors a place to go from each webpage that’s related to the task at hand.</p>
+  
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Anatomy of a Webpage</title>
+</head>
+<body>
+
+  <h2>Anatomy of a Webpage</h2>
+  <p>There are lots of pieces to think about when creating a webpage. Here’s a quick guide to the most basic elements.</p>
+
+  <h3>1. Page Title</h3>
+  <ul>
+    <li>Keep it short. Use clear language.</li>
+    <li>Make the first two words count.</li>
+    <li>Avoid internal jargon or acronyms.</li>
+  </ul>
+
+  <h3>2. ID</h3>
+  <p>The ID is a label assigned to the webpage that will appear at the end of the URL.</p>
+  <ul>
+    <li>Use hyphens between words.</li>
+    <li>Never use underscores or other characters.</li>
+    <li>No capital letters.</li>
+    <li>Use words that make sense.</li>
+    <li>Don’t use obscure acronyms or abbreviations.</li>
+  </ul>
+
+  <h3>3. Description</h3>
+  <p>The description is a one-sentence summary of your page. It’s important to use keywords and phrases that you think visitors might be using as search terms.</p>
+  <ul>
+    <li>Google search results page</li>
+    <li>Facebook, comments threads, or any other website where someone might post a link to your page</li>  
+  </ul>
+
+  <h3>4. Body</h3>
+  <p>The body is the bulk of your webpage content. It’s the information you’re providing to help visitors complete their tasks.</p>
+  <ul>
+    <li>Put your information in priority order with the most important information first.</li>
+    <li>Use short words, sentences, and paragraphs.</li>
+    <li>Think about your user first. What is the information that they want to know?</li>
+    <li>Are you using language that your users understand?</li>
+    <li>Never use all caps unless it's a predefined style you cannot control. Use <strong>bold</strong> instead.</li>
+  </ul>
+
+  <h3>5. Headings</h3>
+  <p>Headings help users scan and find information quickly so they can assess if they're in the right place.</p>
+  <ul>
+    <li>Accurately describe the information in the section.</li>
+    <li>Be clear and concrete.</li>
+    <li>Use key terms or phrases that are relevant for users.</li>
+    <li>Use powerful and active words.</li>
+  </ul>
+  <p>Use <code>&lt;h2&gt;</code> for main headings and <code>&lt;h3&gt;</code> for subheadings. Re-evaluate your content if you're needing <code>&lt;h4&gt;</code>.</p>
+
+  <h3>6. Lists</h3>
+  <p>Lists are helpful for breaking down big blocks of text or showing step-by-step instructions.</p>
+  <ul>
+    <li>Start with a capital letter.</li>
+    <li>Place a period at the end of complete sentences.</li>
+    <li>Use parallel language for list items (fragments, complete sentences, or questions).</li>
+    <li>Use numbers if you’re outlining steps.</li>
+    <li>Make the first two words of each list item meaningful.</li>
+  </ul>
+
+  <h3>7. Bold, Italics, and Underline</h3>
+
+  <h4>Bold</h4>
+  <p>Use bold to highlight important info, such as deadlines or fees. Use it sparingly or it loses effectiveness.</p>
+
+  <h4>Italics</h4>
+  <p>Use italics for:</p>
+  <ul>
+    <li>Book titles</li>
+    <li>Movie titles</li>
+    <li>Titles of newspapers or publications</li>
+    <li>Other items based on your style guide</li>
+    <li>Minor recurring information like room names or job titles</li>
+  </ul>
+
+  <h4>Underline</h4>
+  <p>Do not underline text on the web. It confuses users because underlined text is typically used for links.</p>
+
+  <h3>8. Links</h3>
+  <p>Hyperlink meaningful phrases, not single words or vague terms like “click here.”</p>
+  <ul>
+    <li>Phrases are easier to recognize.</li>
+    <li>Helpful for search engines.</li>
+    <li>Alert users when a link leads to a document (e.g., PDF, DOC).</li>
+    <li>Example: Bethel Undergraduate Catalog (pdf)</li>
+  </ul>
+
+  <h3>9. Call to Action</h3>
+  <p>Always guide visitors to the next step. Provide a clear and relevant call to action related to the page content.</p>
+
+
+  <!--This is Footer-->
+<footer>
+  <div class="footer-container">
+    <!-- Left column -->
+    <div class="footer-col">
+      <h2>Bethel University</h2>
+      <div class="footer-contact">
+        <p>3900 Bethel Drive<br>St. Paul, MN 55112</p>
+        <a href="#">📍 Maps & Directions</a>
+        <a href="tel:6516386400">651.638.6400</a>
+      </div>
+      <div class="social-icons">
+        <a href="#"></a>
+        <a href="#"></a>
+        <a href="#"></a>
+        <a href="#"></a>
+        <a href="#"></a>
+        <a href="#"></a>
+        <a href="#"></a>
+      </div>
+    </div>
+
+    <!-- Middle column -->
+    <div class="footer-col">
+      <h3>Information For</h3>
+      <ul>
+        <li><a href="#">Prospective Students</a></li>
+        <li><a href="#">Current Students</a></li>
+        <li><a href="#">Alumni</a></li>
+        <li><a href="#">Parents & Families</a></li>
+        <li><a href="#">Faculty & Staff</a></li>
+        <li><a href="#">Churches</a></li>
+        <li><a href="#">Military</a></li>
+      </ul>
+    </div>
+
+    <!-- Right column -->
+    <div class="footer-col">
+      <h3>Resources</h3>
+      <ul>
+        <li><a href="#">Jobs at Bethel</a></li>
+        <li><a href="#">Calendar</a></li>
+        <li><a href="#">Library</a></li>
+        <li><a href="#">Questions & Comments</a></li>
+        <li><a href="#">Title IX Concerns</a></li>
+        <li><a href="#">Course Catalogs</a></li>
+      </ul>
+      <a href="#" class="support-btn">Support Bethel</a>
+    </div>
+  </div>
+
+  <!-- Bottom bar -->
+  <div class="footer-bottom">
+    <p>© 2025 Bethel University | <a href="#">CA Student Disclosures</a> | <a href="#">Privacy Policy</a></p>
+    <div class="footer-disclaimer">
+      Bethel University’s Christ-centered mission includes a commitment to equal educational opportunity and equal employment opportunity. Bethel does not unlawfully discriminate on the basis of race, color, creed, national origin, sex, marital status, disability, status with regard to public assistance, familial status, or age in its admissions, educational programs, or employment practices.
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
